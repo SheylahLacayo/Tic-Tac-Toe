@@ -1,0 +1,11 @@
+https://fonts.google.com/share?selection.family=Caveat:wght@445;600%7CHubballi%7CLeague%20Spartan:wght@600%7CQuicksand:wght@500%7CSpace%20Mono:ital,wght@0,700;1,400
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Hubballi&family=League+Spartan:wght@600&family=Quicksand:wght@500&family=Space+Mono:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+
+font-family: 'Caveat', cursive;
+font-family: 'Hubballi', cursive;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Space Mono', monospace;

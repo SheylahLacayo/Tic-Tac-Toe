@@ -1,0 +1,46 @@
+body {
+    background-color: #fdd98a;
+}
+
+h1 {
+    font-family: 'Caveat', bold;
+    font-size: 60px;
+}
+
+.container {
+    text-align: center;
+}
+
+.game-container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 306px;
+    margin: 50px auto;
+    background-color: #fff2b6;
+    color: #e68f49;
+}
+
+.game-cell {
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 0 1px #333333;
+    border: 1px solid #333333;
+    cursor: pointer;
+    line-height: 100px;
+    font-size: 60px;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.game-notification {
+    font-family: 'League Spartan', sans-serif;
+    font-size: 25px;
+}
+
+.game-restart {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    background-color: #ce1818;
+    border: solid #ce1818;
+    box-shadow: none;
+    color:#ffffff
+}
